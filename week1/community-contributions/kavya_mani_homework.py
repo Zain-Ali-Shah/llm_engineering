@@ -1,3 +1,4 @@
+import ollama
 from scraper import fetch_website_contents
 
 system_prompt = """
